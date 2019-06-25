@@ -1,15 +1,11 @@
-<a href="https://developers.libra.org">
-	<img width="200" src="./.assets/libra.png" alt="Libra Logo" />
-</a>
+
 
 <hr/>
 
 [![CircleCI](https://circleci.com/gh/libra/libra.svg?style=shield)](https://circleci.com/gh/libra/libra)
 [![License](https://img.shields.io/badge/license-Apache-green.svg)](LICENSE.md)
 
-Libra Core implements a decentralized, programmable database which provides a financial infrastructure that can empower billions of people.
-
-## Note to Developers
+Libra Core implements a decentralized, programmable database which provides a financial infrastructure that can empower billions of peopl
 * Libra Core is a prototype.
 * The APIs are constantly evolving and designed to demonstrate types of functionality. Expect substantial changes before the release.
 * We’ve launched a testnet that is a live demonstration of an early prototype of the Libra Blockchain software.
